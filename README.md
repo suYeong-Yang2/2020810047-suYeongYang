@@ -1,6 +1,7 @@
 # 2020810047-suYeongYang
 
-*맨 위에 올려져 있는 zip파일을 다운 받아 압축해재 후 실행시키기를 권장함.. (replit에서 실행 시킬 시 화면 짤림 발생)
+*맨 위에 올려져 있는 zip파일을 다운 받아 압축해재 후 실행시키기를 권장합니다.. 
+(replit에서 실행 시킬 시 화면 짤림 발생)*
 
 레플릿 주소 -https://repl.it/@suyeongYANG/2020810047-suyeong-Yang-Final
 
